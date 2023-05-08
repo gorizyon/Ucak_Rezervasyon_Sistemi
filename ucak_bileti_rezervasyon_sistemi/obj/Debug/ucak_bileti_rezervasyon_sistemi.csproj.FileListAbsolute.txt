@@ -1,0 +1,11 @@
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\bin\Debug\ucak_bileti_rezervasyon_sistemi.exe.config
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\bin\Debug\ucak_bileti_rezervasyon_sistemi.exe
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\bin\Debug\ucak_bileti_rezervasyon_sistemi.pdb
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.csproj.AssemblyReference.cache
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.Form1.resources
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.Properties.Resources.resources
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.csproj.GenerateResource.cache
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.exe
+C:\Users\mertu\OneDrive\Masaüstü\Dosyalarım\Projeler\c#\ucak_bileti_rezervasyon_sistemi\ucak_bileti_rezervasyon_sistemi\obj\Debug\ucak_bileti_rezervasyon_sistemi.pdb
